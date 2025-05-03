@@ -1,6 +1,11 @@
-# E-commerce Sales Data Mining Project
+# 🛒 Amazon Sales Data Analysis
 
-This repository contains our group project for analyzing E-commerce sales data using data mining techniques.  
+Turning Amazon sales data into smarter strategies.
+
+## 📊 Overview
+This project analyzes Amazon sales data to uncover customer behavior, product trends, and actionable insights.  
+We apply data preprocessing, classification, clustering, and association rule mining to help improve business strategies.
+
 
 ## 📊 Project Overview
 
